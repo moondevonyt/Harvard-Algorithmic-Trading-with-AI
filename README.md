@@ -1,6 +1,6 @@
 # Harvard Algorithmic Trading with AI
 
-## [Watch the Video Tutorial](https://youtu.be/Vu62g43_1aE)
+## [![Video Tutorial](https://img.shields.io/badge/Watch-Video%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/Vu62g43_1aE)
 
 ## The RBI System: Research, Backtest, Implement
 
