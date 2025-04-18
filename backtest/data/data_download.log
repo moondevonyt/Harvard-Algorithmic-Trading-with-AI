@@ -1,0 +1,138 @@
+2025-04-18 09:34:59,526 INFO:Starting download for AAPL
+2025-04-18 09:35:01,254 ERROR:
+1 Failed download:
+2025-04-18 09:35:01,254 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:03,255 ERROR:
+1 Failed download:
+2025-04-18 09:35:03,255 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:05,106 ERROR:
+1 Failed download:
+2025-04-18 09:35:05,106 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:07,251 ERROR:
+1 Failed download:
+2025-04-18 09:35:07,252 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:09,209 ERROR:
+1 Failed download:
+2025-04-18 09:35:09,209 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:11,059 ERROR:
+1 Failed download:
+2025-04-18 09:35:11,060 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:12,980 ERROR:
+1 Failed download:
+2025-04-18 09:35:12,980 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:15,259 ERROR:
+1 Failed download:
+2025-04-18 09:35:15,259 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:17,350 ERROR:
+1 Failed download:
+2025-04-18 09:35:17,350 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:19,264 ERROR:
+1 Failed download:
+2025-04-18 09:35:19,264 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:21,207 ERROR:
+1 Failed download:
+2025-04-18 09:35:21,207 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:23,127 ERROR:
+1 Failed download:
+2025-04-18 09:35:23,128 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:25,031 ERROR:
+1 Failed download:
+2025-04-18 09:35:25,031 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:27,190 ERROR:
+1 Failed download:
+2025-04-18 09:35:27,191 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:29,129 ERROR:
+1 Failed download:
+2025-04-18 09:35:29,130 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:30,989 ERROR:
+1 Failed download:
+2025-04-18 09:35:30,989 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:33,133 ERROR:
+1 Failed download:
+2025-04-18 09:35:33,134 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:35,188 ERROR:
+1 Failed download:
+2025-04-18 09:35:35,188 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:37,075 ERROR:
+1 Failed download:
+2025-04-18 09:35:37,075 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:40,385 ERROR:
+1 Failed download:
+2025-04-18 09:35:40,386 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:42,389 ERROR:
+1 Failed download:
+2025-04-18 09:35:42,389 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:44,283 ERROR:
+1 Failed download:
+2025-04-18 09:35:44,283 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:46,193 ERROR:
+1 Failed download:
+2025-04-18 09:35:46,194 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:48,096 ERROR:
+1 Failed download:
+2025-04-18 09:35:48,096 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:50,010 ERROR:
+1 Failed download:
+2025-04-18 09:35:50,010 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:52,111 ERROR:
+1 Failed download:
+2025-04-18 09:35:52,112 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:54,062 ERROR:
+1 Failed download:
+2025-04-18 09:35:54,062 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:55,972 ERROR:
+1 Failed download:
+2025-04-18 09:35:55,972 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:57,936 ERROR:
+1 Failed download:
+2025-04-18 09:35:57,936 ERROR:['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:35:58,941 INFO:Total rows for AAPL daily data: 0
+2025-04-18 09:35:58,941 INFO:Starting download for GOOGL
+2025-04-18 09:35:59,822 ERROR:
+1 Failed download:
+2025-04-18 09:35:59,822 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:01,970 ERROR:
+1 Failed download:
+2025-04-18 09:36:01,971 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:04,016 ERROR:
+1 Failed download:
+2025-04-18 09:36:04,016 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:06,116 ERROR:
+1 Failed download:
+2025-04-18 09:36:06,116 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:08,168 ERROR:
+1 Failed download:
+2025-04-18 09:36:08,168 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:10,170 ERROR:
+1 Failed download:
+2025-04-18 09:36:10,170 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:12,278 ERROR:
+1 Failed download:
+2025-04-18 09:36:12,278 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:14,263 ERROR:
+1 Failed download:
+2025-04-18 09:36:14,263 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:16,263 ERROR:
+1 Failed download:
+2025-04-18 09:36:16,264 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:18,239 ERROR:
+1 Failed download:
+2025-04-18 09:36:18,239 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:20,272 ERROR:
+1 Failed download:
+2025-04-18 09:36:20,272 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:22,375 ERROR:
+1 Failed download:
+2025-04-18 09:36:22,375 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:24,418 ERROR:
+1 Failed download:
+2025-04-18 09:36:24,418 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:26,565 ERROR:
+1 Failed download:
+2025-04-18 09:36:26,565 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:28,621 ERROR:
+1 Failed download:
+2025-04-18 09:36:28,621 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-18 09:36:30,615 ERROR:
+1 Failed download:
+2025-04-18 09:36:30,615 ERROR:['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
