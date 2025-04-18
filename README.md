@@ -54,3 +54,12 @@ While historical performance can provide confidence in a strategy, past results 
 ## Getting Started
 
 [More content to be added as the project develops] 
+
+## Resources
+
+### Tools I Use
+- **[Cursor](https://cursor.sh/)** - AI-powered IDE where all coding for this project takes place
+- **[Flow Pro](https://flow.com/)** - Voice-to-text AI tool used for documentation and code comments
+
+### Prerequisites
+- **[CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)** - This Harvard course is a prerequisite to understanding the programming concepts in this class 
