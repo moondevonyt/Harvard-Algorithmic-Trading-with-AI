@@ -59,7 +59,14 @@ While historical performance can provide confidence in a strategy, past results 
 
 ### Tools I Use
 - **[Cursor](https://cursor.sh/)** - AI-powered IDE where all coding for this project takes place
-- **[Flow Pro](https://flow.com/)** - Voice-to-text AI tool used for documentation and code comments
+- **[Flow Pro](https://wisprflow.ai/)** - Voice-to-text AI tool used for documentation and code comments
 
 ### Prerequisites
 - **[CS50: Introduction to Computer Science](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)** - This Harvard course is a prerequisite to understanding the programming concepts in this class 
+
+### Python Packages
+- pandas - super important to learn its like excel for python 
+- backtesting.py - this is how i backtest
+- yfinance - this is where we get free daily data
+- talib - indicators for finance
+- ccxt - if you want to connect to other exchanges other than hyperliquid
