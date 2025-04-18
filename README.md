@@ -1,5 +1,7 @@
 # Harvard Algorithmic Trading with AI
 
+[![Video Tutorial](https://img.shields.io/badge/Watch-Video%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/Vu62g43_1aE)
+
 ## The RBI System: Research, Backtest, Implement
 
 Welcome to the Harvard Algorithmic Trading with AI repository. This open-source project teaches students how to become algorithmic traders by following a systematic approach to automating trading strategies.
