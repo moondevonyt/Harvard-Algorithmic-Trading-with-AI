@@ -5,7 +5,7 @@ from backtesting import Backtest, Strategy
 from backtesting.lib import crossover
 
 # Load the filtered data
-data_path = '/Users/md/Dropbox/dev/github/hyper-liquid-trading-bots/backtests/gap strategies/BTC-USD-1h-2018-1-01T00_00.csv'
+data_path = '/Users/md/Dropbox/dev/github/Harvard-Algorithmic-Trading-with-AI-/backtest/data/BTC-6h-1000wks-data.csv'
 data = pd.read_csv(data_path, parse_dates=['datetime'], index_col='datetime')
 
 # Bollinger Band Breakout Strategy (Short Only)
